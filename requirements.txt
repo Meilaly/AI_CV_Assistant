@@ -1,0 +1,9 @@
+transformers
+torch>=1.9.0  # 确保支持 CUDA 和 CPU 版本
+peft
+streamlit
+pandas
+python-docx  # 用于处理 .docx 文件
+pdfplumber   # 用于处理 .pdf 文件
+python-pptx  # 用于处理 .pptx 文件
+modelscope
